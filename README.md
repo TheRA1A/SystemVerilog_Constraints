@@ -47,6 +47,10 @@
 
 - SystemVerilog community members
 - Open source verification resources
-
+  
+## Contributors
+This project was developed by:
+- [TheRA1A](https://github.com/TheRA1A)
+- [Kassa Keerthi](https://github.com/kassakeerthi)
 ---
 ⭐ Don't forget to star this repository if you find it helpful!
