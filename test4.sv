@@ -1,4 +1,4 @@
-//  QUE: Create a 61-bit variable constraint such that bits 0-31 are 1 and the remaining bits are 0.
+//  QUE: Create a 62-bit variable constraint such that bits 0-31 are 1 and the remaining bits are 0.
 
 class demo;
 
