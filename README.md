@@ -5,7 +5,7 @@
 1. 32-bit variable with exactly 12 non-consecutive 1's
 2. Gray code sequence generation
 3. Specific value generation (25, 27, 30, 36, 40, 45)
-4. 61-bit variable with specific bit patterns
+4. 62-bit variable with specific bit patterns
 5. 16-bit variable with no consecutive 1's
 6. 32-bit number with exactly one high bit
 7. 4-variable unique value history constraint
